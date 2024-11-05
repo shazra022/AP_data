@@ -1,0 +1,3 @@
+@media print{@page{margin:.5cm}body{background-color:#fff;color:#000}a{color:#339;text-decoration:underline}#siteHeader .siteUserNav{display:none}.asset-action-bar{display:none}#siteFooter{display:none}.siteOuterWrapper{max-width:100%}.siteOuterWrapper .siteContentWrapper{padding:0}#datasetBar #actionBar,#datasetBar #actionBox{display:none}.measuresContainer,.healthContainer,.narrative,.component-Visualization,.component-HorizontalContainer{-moz-column-break-inside:avoid;break-inside:avoid}.component-Visualization,.component-HorizontalContainer{overflow:hidden}.calloutContainer.targetValueCallout{left:inherit !important;right:10px !important}.calloutConnectorLine.targetValueCallout{visibility:hidden}}
+
+/*# sourceMappingURL=print.ae2b2c961a171e7a693e.css.map*/
